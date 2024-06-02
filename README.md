@@ -6,4 +6,4 @@ It explores various aspects, including:
 Feature Engineering: Adding new features to the dataset (DayDiff, WeekDay, Discount Calculation) for enhanced analysis.  \
 Discount Code Prediction: Classifying the most suitable discount code for a given hotel stay based on various parameters using Random Forest, Decision Tree, Naive Bayes, and XGBoost algorithms. \
 Hotel Clustering: Grouping hotels with similar pricing patterns through Hierarchical Clustering. \
-Price Prediction: (Optional) Implementing a model to predict future discounted prices for hotels using sampling techniques (your choice of algorithm). \
+Price Prediction: Implementing a model to predict future discounted prices for hotels using sampling techniques. 
